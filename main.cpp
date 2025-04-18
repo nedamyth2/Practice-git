@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, World" << endl;
+    cout << cout << "Hello from conflict branch!" << endl;
+    << endl;
     return 0;
 }
