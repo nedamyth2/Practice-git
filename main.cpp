@@ -2,7 +2,11 @@
 using namespace std;
 
 int main() {
+
     cout <<  "Hello from main branch!" << endl;
-    << endl;
+
+    cout << "Hello from conflict branch!" << endl;
+
+   
     return 0;
 }
